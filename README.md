@@ -4,6 +4,7 @@
 
 It is a small project that demonstrates onMouseMove event. This project contains two eyes and eye balls created in styles.css 
 and combined with JavaScript onmousemove event to make the eye balls move where ever the mouse moves to.
+
 <img src= "oneeye.png" width='300'/>
 
 ## Roadmap:
