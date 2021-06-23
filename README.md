@@ -7,6 +7,9 @@ and combined with JavaScript onmousemove event to make the eye balls move where 
 
 <img src= "oneeye.png" width='300'/>
 
+### How to run:
+best way is to fork this reposatory to your github and then pull it from your local disk. then send it to the browser from your local machine.
+
 ## Roadmap:
 I am working on adding eyebrows that also move with mouse move event.
 
